@@ -17,7 +17,7 @@ var coolbutton = document.getElementById('coolbutton');
         },800);
         setTimeout(function(){
         coolbutton.classList.add('coolass_button_final');
-        },3000);
+        },2600);
         setTimeout(function(){
             coolbutton.classList.remove('coolass_button_final');
             coolbutton.classList.remove('coolass_button_third');
